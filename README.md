@@ -2,7 +2,7 @@
 > Creation Date: December, 2019
 ## Description
 The aim of the project was to implement the few concepts of Discrete Structures 
-[Discrete Mathematics] in COAL’s project (COAL: Computer Organization and Assembly Language).
+[Discrete Mathematics] in COAL’s (Computer Organization and Assembly Language) project using Assembly Language.
 
 > To learn more about the project, click [HERE](https://github.com/muhammadowaismushtaq/Discrete-Calculator/blob/63b541e5b77061afaeaf3b958598ceb9f07ca955/COAL%20FINAL%20PROJECT%20REPORT.pdf).
 
